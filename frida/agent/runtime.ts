@@ -1,6 +1,6 @@
 import { log } from "./logger";
-import { ESection, ESegment } from "./Consts";
-import * as Util from "./Util";
+import { ESection, ESegment } from "./consts";
+import * as Util from "./util";
 
 let size_t = Process.pointerSize === 8 ? 'uint64' : Process.pointerSize === 4 ? 'uint32' : "unsupported platform";
 
