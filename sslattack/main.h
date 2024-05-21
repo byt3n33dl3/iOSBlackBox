@@ -3,8 +3,9 @@
 
 #include <stddef.h>
 #include <stdint.h>
+#include <math.h>
 
-#if !defined(FISHHOOK_EXPORT)
+#if !defined(MAIN_EXPORT)
 #define MAIN_VISIBILITY __attribute__((visibility("hidden")))
 #else
 #define MAIN_VISIBILITY __attribute__((visibility("default")))
