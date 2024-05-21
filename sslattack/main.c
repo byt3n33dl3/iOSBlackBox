@@ -1,5 +1,6 @@
 #include "main.h"
 
+#include <math.h>
 #include <dlfcn.h>
 #include <stdlib.h>
 #include <string.h>
