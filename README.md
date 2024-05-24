@@ -11,13 +11,11 @@ In Apple's code, there was an extra "goto" statement. This caused the verificati
 <br><br>
 Apple's vulnerability was due to a flaw in its implementation of SSL (Secure Sockets Layer), a protocol used to encrypt data transmitted over the internet. SSL ensures that information sent between devices (like passwords, messages, and credit card numbers) is kept secure and private.
 
-#### ***Later I'll be making the special 0 click botnet attacks*** | For educational purposes only
+#### Later I'll be making the special 0 click [***botnet attacks***](https://www.wired.com/2014/08/yes-hackers-could-build-an-iphone-botnetthanks-to-windows/) | For educational purposes only
 
 ---
 
 [![extra](https://github.com/Sulaimannabdul/iOSBlackBox/assets/151133481/1e4a6659-fbe8-4dc4-99ad-4c1cd433fdb1)](https://discussions.apple.com/thread/255086079?sortBy=best)
-
-Panel functionality:
 
 • Filtering/Search
 
