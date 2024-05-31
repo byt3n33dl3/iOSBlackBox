@@ -15,14 +15,6 @@ Apple's vulnerability was due to a flaw in its implementation of SSL (Secure Soc
 
 ---
 
-[![extra](https://github.com/Sulaimannabdul/iOSBlackBox/assets/151133481/1e4a6659-fbe8-4dc4-99ad-4c1cd433fdb1)](https://discussions.apple.com/thread/255086079?sortBy=best)
+[![extra](https://github.com/pxcs/iOSBlackBox/assets/151133481/1e4a6659-fbe8-4dc4-99ad-4c1cd433fdb1)](https://discussions.apple.com/thread/255086079?sortBy=best)
 
-• Filtering/Search
-
-• Privilege control
-
-• Extensive statistics
-
-• Auto-commands
-
-• Smart injections
+• [Command will be displayed later](https://github.com/pxcs/)
